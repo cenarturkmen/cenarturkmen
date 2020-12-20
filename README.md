@@ -1,7 +1,6 @@
 ### Hey! 👋
 🌱 I’m currently learning GAN's
-<!--
-**cenarturkmen/cenarturkmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
 
 Here are some ideas to get you started:
 
