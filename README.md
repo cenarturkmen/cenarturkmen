@@ -1,5 +1,1 @@
-### Hey! 👋
-
-
-🌱 I’m currently learning GAN's
-  
+🌱 I'm currently learning GANs, looking for a job/internship
